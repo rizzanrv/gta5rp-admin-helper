@@ -1,0 +1,3 @@
+from .config import OCR_API_KEY, OCR_LANGUAGE, OCR_ENGINE
+
+__all__ = ["OCR_API_KEY", "OCR_LANGUAGE", "OCR_ENGINE"]
